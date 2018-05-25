@@ -10,15 +10,15 @@ Centurion API. Developed with node.js & express
 
 ## Dependencies
 
-. bcryptjs : 2.4.3
-. body-parser : 1.16.1
-. express : 4.14.1
-. jsonwebtoken : 7.4.1
+. bcryptjs : 2.4.3 <br/>
+. body-parser : 1.16.1 <br/>
+. express : 4.14.1 <br/>
+. jsonwebtoken : 7.4.1 <br/>
 . mongoose : 4.8.5
 
 ## Install
 
-. install system requierements
-. clone this depot
-. run command : npm install
+. install system requierements <br/>
+. clone this depot <br/>
+. run command : npm install <br/>
 . start api with: npm start
