@@ -1,6 +1,7 @@
 var express = require('express');
 var router = express.Router();
 var bodyParser = require('body-parser');
+var bcrypt = require('bcryptjs');
 
 var VerifyToken = require(__root + 'auth/VerifyToken');
 
