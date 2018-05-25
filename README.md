@@ -4,8 +4,8 @@ Centurion API. Developed with node.js & express
 
 ## System requirement
 
-. MongoDb
-. Node.js
+. MongoDb <br/>
+. Node.js <br/>
 . npm
 
 ## Dependencies
