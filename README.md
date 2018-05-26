@@ -4,21 +4,21 @@ Developed with node.js & express
 
 ## System requirement
 
-. node.js
-. npm
+. node.js <br/>
+. npm <br/>
 . mongodb
 
 ## Dependencies
 
-. bcryptjs : 2.4.3
-. body-parser : 1.16.1
-. express : 4.14.1
-. jsonwebtoken : 7.4.1
+. bcryptjs : 2.4.3 <br/>
+. body-parser : 1.16.1 <br/>
+. express : 4.14.1 <br/>
+. jsonwebtoken : 7.4.1 <br/>
 . mongoose : 4.8.5
 
 ## Installation
 
-. Install system requirements
-. clone this depot 
-. npm install
+. Install system requirements <br/>
+. clone this depot <br/>
+. npm install <br/>
 . npm start
